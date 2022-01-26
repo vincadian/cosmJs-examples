@@ -1,0 +1,25 @@
+{
+  "name": "cosmojs-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendTx.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atmoner/cosmoJs-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atmoner/cosmoJs-examples/issues"
+  },
+  "homepage": "https://github.com/atmoner/cosmoJs-examples#readme",
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.27.1",
+    "@cosmjs/stargate": "^0.27.1"
+  }
+}
