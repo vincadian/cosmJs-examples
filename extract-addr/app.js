@@ -16,7 +16,7 @@ function getAddressFromPubKey (pubKey, chain) {
 cosmosConfig.forEach(function(getChain){
   console.log(getChain.name)
   getAddressFromPubKey(
-    'AzblIzESX2733gtn5h696tAeqmFPPafJ5CIKJWNrKpmg',
+    '',
     getChain
   )
   console.log('\n')
